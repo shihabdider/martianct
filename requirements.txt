@@ -12,3 +12,4 @@ pymed
 streamlit-extras
 asyncpg
 aiohttp
+langchain-openai
