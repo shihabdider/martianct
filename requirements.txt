@@ -1,0 +1,14 @@
+streamlit
+streamlit_book
+matplotlib
+numpy
+streamlit_chat
+openai
+pandas
+geopy
+langchain
+tabulate
+pymed
+streamlit-extras
+asyncpg
+aiohttp
